@@ -77,13 +77,13 @@ npm run getPrediction
 ### Citation
   If you find the dataset (i.e., app info (36k apps' name, StaticAnalysisParseTree (66 personal APIs))) or static analysis code useful to your research, please cite one of the following papers:
 ```
-  @inproceedings{son2021risk,
-  title={A Risk Assessment Mechanism for Android Apps},
-  author={Son, Ha Xuan and Carminati, Barbara and Ferrari, Elena},
-  booktitle={2021 IEEE International Conference on Smart Internet of Things (SmartIoT)},
-  pages={237--244},
-  year={2021},
-  organization={IEEE}
-  } 
+@inproceedings{son2021risk,
+title={A Risk Assessment Mechanism for Android Apps},
+author={Son, Ha Xuan and Carminati, Barbara and Ferrari, Elena},
+booktitle={2021 IEEE International Conference on Smart Internet of Things (SmartIoT)},
+pages={237--244},
+year={2021},
+organization={IEEE}
+} 
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
