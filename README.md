@@ -56,15 +56,6 @@ Command:
 ```sh
 npm run privacyPolicyAnalysis
 ```
-### Calculate distance
-
-Calculate the distance of an application.
-
-Command:
-
-```sh
-npm run computingDistance
-```
 ### Prediction
 
 Retrieves the prediction of an application by 4 approaches
