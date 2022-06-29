@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  algorithm-api:
+    build: ./algorithm-api
+  prediction:
+    build: .
+    depends_on: 
+      - algorithm-api
+    

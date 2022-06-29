@@ -3,3 +3,6 @@ static-analysis/package-lock.json
 
 app-reverse-engineering/package-lock.json
 app-reverse-engineering/node_modules
+
+prediction/node_modules
+prediction/package-lock.json
