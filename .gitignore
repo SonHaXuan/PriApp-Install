@@ -1,0 +1,5 @@
+static-analysis/node_modules
+static-analysis/package-lock.json
+
+app-reverse-engineering/package-lock.json
+app-reverse-engineering/node_modules

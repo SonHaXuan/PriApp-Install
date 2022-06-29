@@ -1,0 +1,6 @@
+node version >= 10
+
+1. npm run install (để install các thư viện cần thiết  )
+2. node index.js ( chạy demo )
+
+kết quả sẽ được xuất vào folder "output" khi chương trình chạy thành công 
