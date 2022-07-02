@@ -1,0 +1,3 @@
+docker build -t metrics
+
+docker run -v "$PWD/report":/usr/src/app/report metric:latest
