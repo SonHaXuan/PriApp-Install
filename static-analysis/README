@@ -1,6 +1,6 @@
 node version >= 10
 
-1. npm run install (để install các thư viện cần thiết  )
-2. node index.js ( chạy demo )
+1. npm run install (to install the required libraries)
+2. node index.js ( to run the demo )
 
-kết quả sẽ được xuất vào file output.json khi chương trình chạy thành công 
+The results will be log to the output.json file when the program runs successfully
