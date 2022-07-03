@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-...
+
+This repository holds the source code of the PriApp-Install system which predicts the individual behavior w.r.t app installation.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Prerequisites
