@@ -1,0 +1,7 @@
+node version >= 10
+
+before you run this program, make sure you run the beforeiaccept tool successfully (I put the README file into the beforeiaccept folder too)
+1. npm run install (to install the required libraries)
+2. node index.js ( to run the demo )
+
+The results will be log to the output.json file when the program runs successfully

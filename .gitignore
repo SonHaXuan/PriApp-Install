@@ -6,3 +6,6 @@ app-reverse-engineering/node_modules
 
 prediction/node_modules
 prediction/package-lock.json
+
+privacy-policy-analysis/node_modules
+privacy-policy-analysis/package-lock.json

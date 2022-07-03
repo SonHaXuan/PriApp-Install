@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  beforeiaccept:
+    build: ./beforeiaccept
+  privacy-policy-analysis:
+    build: .
+    depends_on: 
+      - beforeiaccept
+    
