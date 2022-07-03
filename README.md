@@ -31,39 +31,18 @@ _If you wish to run the tutorial, you can use the following commands_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Function and Constanst Detection
 
-## Usage
-Available methods:
-- [Function and Constanst](#function-and-constanst): Retrieves the Function/Constanst of an application.
-- [Privacy policy analysis](#privacy-policy-analysis): Retrieves the privacy policy of an application.
-- [Calculate distance](#calculate-distance): Calculate the distance of an application.
-- [Prediction](#prediction): Retrieves the prediction of an application by 4 approaches
-### Function and Constanst
+app-reverse-engineering: To reverse from the APK files to the Java code.
+static-analysis: To detect the API, Class, Function, and Constant usages.
 
-Retrieves the Function/Constanst of an application.
-
-Command:
-
-```sh
-npm run getAppInfo
-```
 ### Privacy policy analysis
 
-Retrieves the privacy policy of an application.
+Retrieves the related information from an app's privacy policy document.
 
-Command:
-
-```sh
-npm run privacyPolicyAnalysis
-```
 ### Prediction
 
-Retrieves the prediction of an application by 4 approaches
-
-Command:
-
-```sh
-npm run getPrediction
-```
+prediction: To retrieve the prediction of an target app by four approaches.
+metrics-definition: To measure the accuracy, precision, recall, and F1 score.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
