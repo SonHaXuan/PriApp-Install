@@ -34,6 +34,7 @@ _If you wish to run the tutorial, you can use the following commands_
 ### Function and Constanst Detection
 
 app-reverse-engineering: To reverse from the APK files to the Java code.
+
 static-analysis: To detect the API, Class, Function, and Constant usages.
 
 ### Privacy policy analysis
@@ -43,6 +44,7 @@ Retrieves the related information from an app's privacy policy document.
 ### Prediction
 
 prediction: To retrieve the prediction of an target app by four approaches.
+
 metrics-definition: To measure the accuracy, precision, recall, and F1 score.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
